@@ -11,3 +11,7 @@ VOIP ActiveX Component For Visual Studio And Others
 8) Now "VoipActiveX Control" is showing Toolbox.
 
 
+
+
+Contact for me, help or new development. 
+tuncgulec@hotmail.com
